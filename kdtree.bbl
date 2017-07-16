@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bentley:1975:MBS:361002.361007}
+{\sc Bentley, J.~L.}
+\newblock Multidimensional binary search trees used for associative searching.
+\newblock {\em Commun. ACM 18}, 9 (Sept. 1975), 509--517.
+
+\bibitem{bridson2015fluid}
+{\sc Bridson, R.}
+\newblock Fluid simulation for computer graphics, 2015.
+
+\bibitem{DBLP:conf/sdm/Hamerly10}
+{\sc Hamerly, G.}
+\newblock Making k-means even faster.
+\newblock In {\em SDM\/} (2010), pp.~130--140.
+
+\bibitem{Muller:2003:PFS:846276.846298}
+{\sc M\"{u}ller, M., Charypar, D., and Gross, M.}
+\newblock Particle-based fluid simulation for interactive applications.
+\newblock In {\em Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation\/} (Aire-la-Ville, Switzerland, Switzerland, 2003), SCA
+  '03, Eurographics Association, pp.~154--159.
+
+\bibitem{WADSLEY2004137}
+{\sc Wadsley, J., Stadel, J., and Quinn, T.}
+\newblock Gasoline: a flexible, parallel implementation of treesph.
+\newblock {\em New Astronomy 9}, 2 (2004), 137 -- 158.
+
+\end{thebibliography}
